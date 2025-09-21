@@ -17,6 +17,7 @@ module.exports = {
     publishQuiet: true,
     dryRun: false,
     failFast: false,
-    parallel: 1
+    parallel: 1,
+    timeout: 60000
   }
 };
